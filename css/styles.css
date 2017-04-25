@@ -1,0 +1,13 @@
+#walrus-showing, #history-fadeIn {
+  display: none;
+}
+
+.clickable,
+.clickable-history {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .clickable-history:hover {
+  text-decoration: underline;
+}
